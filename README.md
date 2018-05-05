@@ -16,7 +16,7 @@ Containing the tasks from Softuni's course DB Advanced:
 4. [Funcional Programming](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20Advanced/04.%20Functional-Programming)
 5. [String Processing](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20Advanced/Manual%20String%20Processing)
 6. [Regular Expressions](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20Advanced/Regular%20Expressions)
-7. [Sets and Dictionaries] (https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20Advanced/Sets%20and%20Dictionaries)
+7. [Sets and Dictionaries](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20Advanced/Sets%20and%20Dictionaries)
 
 ## Exam
 
@@ -47,8 +47,8 @@ The course includes:
 6. [Polymorphism](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Basics/06.Polymorphism)
 7. [BashSoft] (https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Basics/BashSoft)
 
-##Workshop
-* [ConsoleForum] (https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Basics/WorkShop)
+## Workshop
+* [ConsoleForum](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Basics/WorkShop)
 
 ## Exam
 
@@ -76,10 +76,10 @@ The course includes:
 4. [Reflection And Attributes](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Advanced/04.ReflectionAndAttributes)
 5. [Unit Testing](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Advanced/05.UnitTesting)
 6. [Object Communication And Events](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Advanced/06.ObjectCommunicationAndEvents)
-7. [BashSoft] (https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Advanced/BashSoft)
+7. [BashSoft](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Advanced/BashSoft)
 
-##Workshop
-* [ConsoleForum] (https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Advanced/Workshop)
+## Workshop
+* [ConsoleForum](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Advanced/Workshop)
 
 ## Exam
 
