@@ -45,7 +45,7 @@ The course includes:
 4. [Inheritance](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Basics/04.Inheritance)
 5. [Interfaces And Abstraction](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Basics/05.InterfacesAndAbstraction)
 6. [Polymorphism](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Basics/06.Polymorphism)
-7. [BashSoft] (https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Basics/BashSoft)
+7. [BashSoft](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Basics/BashSoft)
 
 ## Workshop
 * [ConsoleForum](https://github.com/girginchev/CSharp-Fundametals-OOP-OOD-SoftUni-Courses/tree/master/CSharp%20OOP%20Basics/WorkShop)
